@@ -27,7 +27,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching Team Beta];
+const statusMessages = ["Watching Team Beta"];
 
 
 let currentIndex = 0;
