@@ -27,7 +27,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching 0 Player online"];
+const statusMessages = ["Watching Tickets","Watching Minecraft"];
 
 
 let currentIndex = 0;
