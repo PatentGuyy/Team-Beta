@@ -27,7 +27,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching Whitelists","Playing VFC Network"];
+const statusMessages = ["Playing in VFC Minecraft","Watching VFC Network"];
 
 
 let currentIndex = 0;
